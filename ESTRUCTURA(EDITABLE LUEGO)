@@ -1,0 +1,15 @@
+TimeTask-School/
+│
+├── static/
+│   ├── css/
+│   └── audio/
+│
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   └── add_task.html
+│
+├── app.py
+├── models.py
+├── requirements.txt
+└── README.md
